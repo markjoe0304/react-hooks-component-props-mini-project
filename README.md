@@ -45,7 +45,7 @@ Make an `About` component as a child of `App`. It should return:
     for the prop if no prop is passed in: "https://via.placeholder.com/215"
   - the image should also be accessible! Give it an `alt` attribute of "blog
     logo"
-  - a `<p>` element, with the text for the blog passed in as a prop called
+  - a `<p >` element, with the text for the blog passed in as a prop called
     `about`
 
 ### ArticleList
@@ -92,4 +92,4 @@ If the article takes 30 minutes or longer to read:
 
 There aren't tests for this feature, so you'll have to rely on running the code
 in the browser to see if your implementation works!
-..........................
+..........................................................................................the end..
