@@ -90,6 +90,6 @@ If the article takes 30 minutes or longer to read:
   display "🍱🍱🍱🍱 35 min read". If the article takes 61 minutes to read, you
   should display "🍱🍱🍱🍱🍱🍱🍱 61 min read".
 
-There aren't tests for this feature, so you'll have to rely on running the code
+There aren't tests for this feature, so you'll have to rely on running the code,
 in the browser to see if your implementation works!
-..........................................................................................the end..
+..........................................................................................the end..!!!!!
