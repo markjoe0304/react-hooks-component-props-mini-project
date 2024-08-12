@@ -19,3 +19,4 @@ function App() {
 }
 
 export default App;
+/// incase of errors reload your webpage..
